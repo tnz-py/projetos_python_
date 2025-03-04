@@ -261,7 +261,7 @@ with open('info_pc_user') as f:
 | Exportação JSON | 0.8s | 5% | 12MB |
 | Análise Completa | 3.4s | 28% | 102MB |
 
-![Benchmark](https://quickchart.io/chart?c={"type":"bar","data":{"labels":["Coleta","Exportação","Análise"],"datasets":[{"label":"Tempo (s)","data":[1.2,0.8,3.4]}]}})
+![Benchmark](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Coleta%22%2C%22Exporta%C3%A7%C3%A3o%22%2C%22An%C3%A1lise%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Tempo%20%28s%29%22%2C%22data%22%3A%5B1.2%2C0.8%2C3.4%5D%7D%5D%7D%7D)
 
 
 
